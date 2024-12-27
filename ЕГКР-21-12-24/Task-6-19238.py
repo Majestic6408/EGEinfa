@@ -1,7 +1,7 @@
 from turtle import *
 
 m = 10
-tracer()
+tracer(0)
 lt(90)
 
 for i in range(8):
