@@ -1,7 +1,7 @@
 from itertools import permutations, product
 
 def f(x, y, z, w):
-    return not(w <=(x == y or y)) and (z <= x)
+    return not(w <=(x == (y or y))) and (z <= x)
 for a1, a2, a3, a4, a5 in product([0,1], repeat=5):
     table = [
         (a1, 1, 1, a2),
