@@ -17,17 +17,17 @@ files = sorted(files, key=lambda x: -x[1])
 deleted = [0] * (k + 1)
 last_file = 0
 volume = 0
-for file in files:
-    if deleted[file[0]] < r and volume + file[1] < m:
-        deleted[file[0]] += 1
-        volume += file[1]
 
-for file in files[::-1]:
+for file in files:
     if deleted[file[0]] < r:
         deleted[file[0]] += 1
+        volume += file[1]
         last_file = file
         if volume >= m:
             break
+
+deleted[last_file[0]] -= 1
+volume -= last_file[1]
 for file in files[::-1]:
     if deleted[file[0]] < r and volume + file[1] >= m:
         print(sum(deleted) + 1, file)
