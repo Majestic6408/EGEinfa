@@ -8,7 +8,7 @@ def convert(num, sys):
 ans = []
 for N in range(1, 10000):
     R = convert(N, 2)
-    if N % 3:
+    if N % 3 == 0:
         R = R + R[-3:]
     if N % 3 != 0:
         ostat = N % 3
