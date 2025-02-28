@@ -17,8 +17,8 @@ for N in range(1, 100000):
             R = R[:3] + '0' + R[3:]
         if len(R) == 8:
             R = R[:4] + '0' + R[4:]
-    R = int(R, 4)
+    R = int(R, 10)
     if R <= 180:
         ans.append(N)
 
-print(max(ans))
+print(ans)
