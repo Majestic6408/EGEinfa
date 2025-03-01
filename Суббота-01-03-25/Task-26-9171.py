@@ -7,7 +7,7 @@ passengers = sorted(passengers, key=lambda x: (x[0], -x[1]))
 
 free_places = [0] * K
 accepted = 0
-last_station = passengers[0][0]
+last_station = 1
 full_stations = 0
 
 for start, stop in passengers:
@@ -15,8 +15,8 @@ for start, stop in passengers:
         if 0 not in free_places:
             full_stations += 1
         last_station += 1
-        while start in free_places:
-            free_places[free_places.index(start)] = 0
+        while last_station in free_places:
+            free_places[free_places.index(last_station)] = 0
     if 0 in free_places:
         free_places[free_places.index(0)] = stop
         accepted += 1
