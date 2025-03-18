@@ -6,12 +6,10 @@ def convert(num, sys):
     return res[::-1]
 
 def f(st, end):
-    st = convert(st, 2)
-    end = convert(end, 2)
-    if st > end:
+    if int(st, 2) > int(end, 2):
         return 0
     if st == end:
         return 1
-    return f(st + 1, end) + f(int(st + '0'), end) + f(int(st + '1'), end)
+    return f(bin(int(st, 2) + 1)[2:], end) + f(st + '0', end) + f(st + '1', end)
 
-print(f(100, 11101))
+print(f('100', '11101'))
