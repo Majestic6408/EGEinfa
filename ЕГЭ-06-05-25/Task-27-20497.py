@@ -1,0 +1,64 @@
+# from math import dist
+#
+# def centroid(cluster):
+#     distance = []
+#     for dot in cluster:
+#         sum_dist = 0
+#         for dot2 in cluster:
+#             sum_dist += dist(dot, dot2)
+#         distance.append([sum_dist, dot])
+#     return max(distance)[1]
+#
+# with open('27.19.A_20497.txt') as file:
+#     data = [list(map(float, i.split())) for i in file]
+#
+# eps = .45
+# clusters = []
+# while data:
+#     cluster = [data.pop()]
+#     for dot in cluster:
+#         for dot2 in data.copy():
+#             if dist(dot, dot2) < eps:
+#                 cluster.append(dot2)
+#                 data.remove(dot2)
+#     if len(cluster) > 10:
+#         clusters.append(cluster)
+#
+# print([len(cluster) for cluster in clusters])
+#
+# centers = [centroid(cluster) for cluster in clusters]
+# px = sum(center[0] for center in centers) / len(centers)
+# py = sum(center[1] for center in centers) / len(centers)
+# print(int(px * 10000), int(py * 10000))
+
+from math import dist
+
+def centroid(cluster):
+    distance = []
+    for dot in cluster:
+        sum_dist = 0
+        for dot2 in cluster:
+            sum_dist += dist(dot, dot2)
+        distance.append([sum_dist, dot])
+    return max(distance)[1]
+
+with open('27.19.B_20497.txt') as file:
+    data = [list(map(float, i.split())) for i in file]
+
+eps = 4.5
+clusters = []
+while data:
+    cluster = [data.pop()]
+    for dot in cluster:
+        for dot2 in data.copy():
+            if dist(dot, dot2) < eps:
+                data.remove(dot2)
+                cluster.append(dot2)
+    if len(cluster) > 10:
+        clusters.append(cluster)
+print([len(cluster) for cluster in clusters])
+centers = [centroid(cluster) for cluster in clusters]
+px = sum(center[0] for center in centers) / len(centers)
+py = sum(center[1] for center in centers) / len(centers)
+print(int(px * 10000), int(py * 10000))
+
