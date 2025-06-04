@@ -4,9 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba129e09-fb49-4db5-b194-564f5a4afef7" name="Changes" comment="задания 4 7 11 19 20 тест решу егэ">
+    <list default="true" id="ba129e09-fb49-4db5-b194-564f5a4afef7" name="Changes" comment="Шпора к 9 заданию">
       <change beforePath="$PROJECT_DIR$/.idea/EGEinfa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGEinfa.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/3_17622.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/3_17622.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/3_21698.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/3_21698.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/3_9734.xls" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/3_9734.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-1-16367.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-1-16367.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-1-17620.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-1-17620.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-1-4606.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-1-4606.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-2-12671.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-2-12671.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-2-17543.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-2-17543.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-2-17621.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-2-17621.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-2-9771.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-2-9771.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-5-17518.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-5-17518.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-5-17546.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-5-17546.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-5-17624.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-5-17624.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-5-4585.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-5-4585.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-5-9736.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-5-9736.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-02-06-25/Task-5-9828.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-02-06-25/Task-5-9828.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/09_17550.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/09_17550.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/09_9778 (1).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/09_9778 (1).xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/9_9832.xls" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/9_9832.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/Task-6-17547.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/Task-6-17547.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/Task-6-17625.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/Task-6-17625.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/Task-6-9829.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/Task-6-9829.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/Task-8-17521.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/Task-8-17521.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/Task-8-17549.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/Task-8-17549.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Хард неделя/ЕГЭ-03-06-25/Task-8-17627.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интенсив неделя/ЕГЭ-03-06-25/Task-8-17627.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +59,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Majestic6408/EGEinfa.git&quot;,
-    &quot;accountId&quot;: &quot;8af6135d-7598-4852-a249-ed12c1128f66&quot;
+    &quot;accountId&quot;: &quot;baa7ef72-90c2-4808-b318-d141ab9ed240&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -52,14 +77,34 @@
   &quot;keyToString&quot;: {
     &quot;Python.Taak-17-19249.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-1-16248.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-16367.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-1-17514.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-17620.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-18869.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-1-19233.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-4606.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-9148.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-1-сдам ГИА.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-1-тест.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-10714.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-11231.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-14372.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-12-15325.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-12-19244.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-19483.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-9542.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-досрок.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-12-сдам ГИА.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-12-тест.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-11790.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-11791.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-11794.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-11835.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-17526.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-17554.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-17632.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-17676.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-13-пробник.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-12246.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-1400.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-1401.executor&quot;: &quot;Run&quot;,
@@ -68,8 +113,12 @@
     &quot;Python.Task-14-1404.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-1405.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-18122.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-18488.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-18580.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-19246.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-19307.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-19406.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-20490.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-сдам ГИА.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-тест.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-1013.executor&quot;: &quot;Run&quot;,
@@ -79,71 +128,205 @@
     &quot;Python.Task-15-16833.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-18175.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-18595.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15-19247.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-4278.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-4327.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-5437.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-753.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-7846.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-8677.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15-пробник.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-15-тест.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-17529.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-17557.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-17635.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-17749.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-18123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-1860.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-16-19248.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-16-19707.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-16-19708.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-16-19882.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-21711.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-4596.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-4621.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-9747.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-9785.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-9839.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-16-тест.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-17-12450.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-17-12735.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-17-14952.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-17-17636.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-17-17873.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-17-19486.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-17-4705.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-17-7718.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-17-test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-17-досрок.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-17-тест.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-12-1863.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-1374.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-17532.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-18268.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-436.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-4599.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-4624.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-702.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-9750.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-9788.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-19-21-досрок.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-12671.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-14651.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-1528.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-17543.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-17621-2способ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-17621.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-17665-2способ.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-17665.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-18576-2способ.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-18576.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-19234-2способ.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-19234.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-2205.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-454.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-5057.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-78.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-816.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-960.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-9771.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-сдам ГИА.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-тест.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-217621.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-11240.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-1137.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-13099.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-13972.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-16332.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-17534.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-17562.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-17640.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-17684.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-1865.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-4498.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-4601.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-4626.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-5937.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-5938.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-6053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-6635.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-9790.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-9844.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-17563.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-17641.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-1866.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-19254.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-1975.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-20909.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-21421.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-21717.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-21908.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-2942.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-3228.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-3584.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-4602.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-4627.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-4682.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-6798.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-7600.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-9845.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-12255.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-12741.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-14438.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-14440.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-17536.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-17642.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-17686.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-17879.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-17880.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-18620.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-1867.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-19157.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-19255.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-19755.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-20288.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-3090.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-4603-1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-4603-2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-4628.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-5476.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-5477.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-6276.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-8696.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-896.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-9754.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-9792.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-9846.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-тест.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-26-14625.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-17537.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-1868.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-3230.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-3586.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-3902.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-4205.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-4660.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-4684.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-9171.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-26-досрок.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-27-17882.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-27-18056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-27-19891.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-27-20497.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-27-21599.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-14328.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-17518.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-17546.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-17624.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-18119.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-18920.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-19237.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-19872.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-20182.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-4585.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-500.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-501.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-502.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-5412.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-7607.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-9736.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-9828.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-пробник.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-тест.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-6-14173.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-6-17519.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-17547.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-17625.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-18131.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-6-19237.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-6-19238.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-20183.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-6-6013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-9829.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-досрок.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-пробник.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-6-сдам ГИА.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-6-тест.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-13298.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-17521.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-17549.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-17627.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-17799.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-17862.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-18963.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-19240.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-1927.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-19480.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-19753.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-20270.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-4320.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-6591.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-6985.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-800.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-801.executor&quot;: &quot;Run&quot;,
@@ -152,26 +335,37 @@
     &quot;Python.Task-8-805.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-9363.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-9994.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-досрок.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-пробник.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-8-тест.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-9-4589.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-9-4614.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-9-9740.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-9-test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-9-досрок.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tasl-24-4627.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tasl-8-802.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/EGEinfa/ДЗ-20-01-25&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/IIvanov/Desktop/EGEinfa/Хард неделя&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\PycharmProjects\EGEinfa\ДЗ-20-01-25" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\Хард неделя" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\Хард неделя\ЕГЭ-02-06-25" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\ЕГЭ-22-04-25" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\Суббота-12-04-25" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\ЕГЭ-04-04-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\PycharmProjects\EGEinfa\ДЗ-19-02-25-Тест" />
-      <recent name="C:\Users\User\PycharmProjects\EGEinfa\ЕГЭ-18-02-25" />
-      <recent name="C:\Users\User\PycharmProjects\EGEinfa\ЕГЭ-14-02-25\Тест" />
-      <recent name="C:\Users\User\PycharmProjects\EGEinfa\ДЗ-11-02-25" />
-      <recent name="C:\Users\User\PycharmProjects\EGEinfa\ДЗ-23-01-25-Тест" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\Хард неделя\ЕГЭ-03-06-25" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\Шпора\Task-2" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\ЕГЭ-02-06-25" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\ЕГЭ-30-05-25" />
+      <recent name="C:\Users\IIvanov\Desktop\EGEinfa\ЕГЭ-23-05-25" />
     </key>
   </component>
   <component name="RunManager">
@@ -206,7 +400,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -219,427 +413,427 @@
       <option name="presentableId" value="Default" />
       <updated>1735057152211</updated>
     </task>
-    <task id="LOCAL-00066" summary="задание 14-1402">
+    <task id="LOCAL-00291" summary="Задание 3-21698">
       <option name="closed" value="true" />
-      <created>1739142666306</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
+      <created>1748865317668</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
       <option name="project" value="LOCAL" />
-      <updated>1739142666306</updated>
+      <updated>1748865317668</updated>
     </task>
-    <task id="LOCAL-00067" summary="задание 14-1403">
+    <task id="LOCAL-00292" summary="Задание 1-4606">
       <option name="closed" value="true" />
-      <created>1739142674527</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
+      <created>1748865330244</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
       <option name="project" value="LOCAL" />
-      <updated>1739142674527</updated>
+      <updated>1748865330244</updated>
     </task>
-    <task id="LOCAL-00068" summary="задание 14-1404">
+    <task id="LOCAL-00293" summary="Задание 1-16367">
       <option name="closed" value="true" />
-      <created>1739142680127</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
+      <created>1748865340011</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
       <option name="project" value="LOCAL" />
-      <updated>1739142680127</updated>
+      <updated>1748865340011</updated>
     </task>
-    <task id="LOCAL-00069" summary="задание 14-1405">
+    <task id="LOCAL-00294" summary="Задание 1-17620">
       <option name="closed" value="true" />
-      <created>1739142687620</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
+      <created>1748865348534</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
       <option name="project" value="LOCAL" />
-      <updated>1739142687620</updated>
+      <updated>1748865348534</updated>
     </task>
-    <task id="LOCAL-00070" summary="задание 17-19249">
+    <task id="LOCAL-00295" summary="Задание 2-9771">
       <option name="closed" value="true" />
-      <created>1739318012833</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+      <created>1748865358891</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
       <option name="project" value="LOCAL" />
-      <updated>1739318012833</updated>
+      <updated>1748865358891</updated>
     </task>
-    <task id="LOCAL-00071" summary="задание 17-4705">
+    <task id="LOCAL-00296" summary="Задание 2-12671">
       <option name="closed" value="true" />
-      <created>1739318031910</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
+      <created>1748865367497</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
       <option name="project" value="LOCAL" />
-      <updated>1739318031910</updated>
+      <updated>1748865367497</updated>
     </task>
-    <task id="LOCAL-00072" summary="задание 17-17873">
+    <task id="LOCAL-00297" summary="Задание 2-17543">
       <option name="closed" value="true" />
-      <created>1739318047190</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
+      <created>1748865377614</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
       <option name="project" value="LOCAL" />
-      <updated>1739318047190</updated>
+      <updated>1748865377614</updated>
     </task>
-    <task id="LOCAL-00073" summary="задание 5-19237">
+    <task id="LOCAL-00298" summary="Задание 2-17621">
       <option name="closed" value="true" />
-      <created>1739318060964</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
+      <created>1748865385019</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
       <option name="project" value="LOCAL" />
-      <updated>1739318060964</updated>
+      <updated>1748865385019</updated>
     </task>
-    <task id="LOCAL-00074" summary="задание 8-1927">
+    <task id="LOCAL-00299" summary="Задание 5-4585">
       <option name="closed" value="true" />
-      <created>1739318073274</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
+      <created>1748865395148</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
       <option name="project" value="LOCAL" />
-      <updated>1739318073274</updated>
+      <updated>1748865395148</updated>
     </task>
-    <task id="LOCAL-00075" summary="задание 8-19753">
+    <task id="LOCAL-00300" summary="Задание 5-9736">
       <option name="closed" value="true" />
-      <created>1739318092149</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
+      <created>1748865404987</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
       <option name="project" value="LOCAL" />
-      <updated>1739318092149</updated>
+      <updated>1748865404987</updated>
     </task>
-    <task id="LOCAL-00076" summary="задание 15-1320">
+    <task id="LOCAL-00301" summary="Задание 5-9828">
       <option name="closed" value="true" />
-      <created>1739318102078</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
+      <created>1748865414302</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
       <option name="project" value="LOCAL" />
-      <updated>1739318102078</updated>
+      <updated>1748865414302</updated>
     </task>
-    <task id="LOCAL-00077" summary="задание 15-18175">
+    <task id="LOCAL-00302" summary="Задание 5-17518">
       <option name="closed" value="true" />
-      <created>1739318112403</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
+      <created>1748865424941</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
       <option name="project" value="LOCAL" />
-      <updated>1739318112403</updated>
+      <updated>1748865424941</updated>
     </task>
-    <task id="LOCAL-00078" summary="задание 1-17514 тест">
+    <task id="LOCAL-00303" summary="Задание 5-17546">
       <option name="closed" value="true" />
-      <created>1739550461439</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
+      <created>1748865432871</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
       <option name="project" value="LOCAL" />
-      <updated>1739550461439</updated>
+      <updated>1748865432871</updated>
     </task>
-    <task id="LOCAL-00079" summary="задание 2-1528 тест">
+    <task id="LOCAL-00304" summary="Задание 5-17624">
       <option name="closed" value="true" />
-      <created>1739551035976</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
+      <created>1748865441750</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
       <option name="project" value="LOCAL" />
-      <updated>1739551035976</updated>
+      <updated>1748865441750</updated>
     </task>
-    <task id="LOCAL-00080" summary="задание 3-16250 тест">
+    <task id="LOCAL-00305" summary="Шпора к 1 заданию">
       <option name="closed" value="true" />
-      <created>1739551465036</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
+      <created>1748865459810</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
       <option name="project" value="LOCAL" />
-      <updated>1739551465037</updated>
+      <updated>1748865459810</updated>
     </task>
-    <task id="LOCAL-00081" summary="задание 5-9736 тест">
+    <task id="LOCAL-00306" summary="Шпора к 2 заданию">
       <option name="closed" value="true" />
-      <created>1739552691202</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
+      <created>1748865476335</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
       <option name="project" value="LOCAL" />
-      <updated>1739552691202</updated>
+      <updated>1748865476335</updated>
     </task>
-    <task id="LOCAL-00082" summary="задание 6-17519 тест">
+    <task id="LOCAL-00307" summary="Шпора к 3 заданию">
       <option name="closed" value="true" />
-      <created>1739553405820</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
+      <created>1748865484169</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
       <option name="project" value="LOCAL" />
-      <updated>1739553405820</updated>
+      <updated>1748865484169</updated>
     </task>
-    <task id="LOCAL-00083" summary="задание 8-6985 тест">
+    <task id="LOCAL-00308" summary="Шпора к 4 заданию">
       <option name="closed" value="true" />
-      <created>1739554690169</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
+      <created>1748865493413</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
       <option name="project" value="LOCAL" />
-      <updated>1739554690169</updated>
+      <updated>1748865493413</updated>
     </task>
-    <task id="LOCAL-00084" summary="задание 5-9736 тест">
+    <task id="LOCAL-00309" summary="Шпора к 5 заданию">
       <option name="closed" value="true" />
-      <created>1739556613522</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
+      <created>1748865501007</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
       <option name="project" value="LOCAL" />
-      <updated>1739556613522</updated>
+      <updated>1748865501007</updated>
     </task>
-    <task id="LOCAL-00085" summary="задание 8-9994">
+    <task id="LOCAL-00310" summary="Задание">
       <option name="closed" value="true" />
-      <created>1739895464970</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
+      <created>1748947368303</created>
+      <option name="number" value="00310" />
+      <option name="presentableId" value="LOCAL-00310" />
       <option name="project" value="LOCAL" />
-      <updated>1739895464970</updated>
+      <updated>1748947368303</updated>
     </task>
-    <task id="LOCAL-00086" summary="задание 15-16833">
+    <task id="LOCAL-00311" summary="Задание 3-9734">
       <option name="closed" value="true" />
-      <created>1739895856548</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
+      <created>1748947403655</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
       <option name="project" value="LOCAL" />
-      <updated>1739895856549</updated>
+      <updated>1748947403655</updated>
     </task>
-    <task id="LOCAL-00087" summary="задание 17-19486">
+    <task id="LOCAL-00312" summary="Задание 3-17622">
       <option name="closed" value="true" />
-      <created>1739897061228</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
+      <created>1748947412606</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
       <option name="project" value="LOCAL" />
-      <updated>1739897061228</updated>
+      <updated>1748947412606</updated>
     </task>
-    <task id="LOCAL-00088" summary="задание 6-6013">
+    <task id="LOCAL-00313" summary="Задание 3-21698">
       <option name="closed" value="true" />
-      <created>1739897341397</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
+      <created>1748947421575</created>
+      <option name="number" value="00313" />
+      <option name="presentableId" value="LOCAL-00313" />
       <option name="project" value="LOCAL" />
-      <updated>1739897341397</updated>
+      <updated>1748947421575</updated>
     </task>
-    <task id="LOCAL-00089" summary="задание 17-19486">
+    <task id="LOCAL-00314" summary="Задание 1-4606">
       <option name="closed" value="true" />
-      <created>1739897393718</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
+      <created>1748947433138</created>
+      <option name="number" value="00314" />
+      <option name="presentableId" value="LOCAL-00314" />
       <option name="project" value="LOCAL" />
-      <updated>1739897393718</updated>
+      <updated>1748947433138</updated>
     </task>
-    <task id="LOCAL-00090" summary="задание 25-4603-1">
+    <task id="LOCAL-00315" summary="Задание 1-16367">
       <option name="closed" value="true" />
-      <created>1739899811555</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
+      <created>1748947443186</created>
+      <option name="number" value="00315" />
+      <option name="presentableId" value="LOCAL-00315" />
       <option name="project" value="LOCAL" />
-      <updated>1739899811555</updated>
+      <updated>1748947443186</updated>
     </task>
-    <task id="LOCAL-00091" summary="задание 25-4603-2">
+    <task id="LOCAL-00316" summary="Задание 1-17620">
       <option name="closed" value="true" />
-      <created>1739899819441</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
+      <created>1748947451826</created>
+      <option name="number" value="00316" />
+      <option name="presentableId" value="LOCAL-00316" />
       <option name="project" value="LOCAL" />
-      <updated>1739899819441</updated>
+      <updated>1748947451826</updated>
     </task>
-    <task id="LOCAL-00092" summary="задание 25-4628">
+    <task id="LOCAL-00317" summary="Задание 2-9771">
       <option name="closed" value="true" />
-      <created>1739900127222</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
+      <created>1748947460388</created>
+      <option name="number" value="00317" />
+      <option name="presentableId" value="LOCAL-00317" />
       <option name="project" value="LOCAL" />
-      <updated>1739900127222</updated>
+      <updated>1748947460388</updated>
     </task>
-    <task id="LOCAL-00093" summary="задание 25-9754">
+    <task id="LOCAL-00318" summary="Задание 2-12671">
       <option name="closed" value="true" />
-      <created>1739901004206</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
+      <created>1748947469274</created>
+      <option name="number" value="00318" />
+      <option name="presentableId" value="LOCAL-00318" />
       <option name="project" value="LOCAL" />
-      <updated>1739901004206</updated>
+      <updated>1748947469274</updated>
     </task>
-    <task id="LOCAL-00094" summary="задание 25-9792">
+    <task id="LOCAL-00319" summary="Задание 2-17543">
       <option name="closed" value="true" />
-      <created>1739901015425</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
+      <created>1748947478450</created>
+      <option name="number" value="00319" />
+      <option name="presentableId" value="LOCAL-00319" />
       <option name="project" value="LOCAL" />
-      <updated>1739901015425</updated>
+      <updated>1748947478450</updated>
     </task>
-    <task id="LOCAL-00095" summary="задание 25-9846">
+    <task id="LOCAL-00320" summary="Задание 2-17621">
       <option name="closed" value="true" />
-      <created>1739901024309</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
+      <created>1748947486067</created>
+      <option name="number" value="00320" />
+      <option name="presentableId" value="LOCAL-00320" />
       <option name="project" value="LOCAL" />
-      <updated>1739901024309</updated>
+      <updated>1748947486067</updated>
     </task>
-    <task id="LOCAL-00096" summary="задание 25-12255">
+    <task id="LOCAL-00321" summary="Задание 5-4585">
       <option name="closed" value="true" />
-      <created>1739901034311</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
+      <created>1748947497165</created>
+      <option name="number" value="00321" />
+      <option name="presentableId" value="LOCAL-00321" />
       <option name="project" value="LOCAL" />
-      <updated>1739901034311</updated>
+      <updated>1748947497165</updated>
     </task>
-    <task id="LOCAL-00097" summary="задание 25-17880">
+    <task id="LOCAL-00322" summary="Задание 5-9736">
       <option name="closed" value="true" />
-      <created>1739901046616</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
+      <created>1748947508252</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
       <option name="project" value="LOCAL" />
-      <updated>1739901046616</updated>
+      <updated>1748947508252</updated>
     </task>
-    <task id="LOCAL-00098" summary="задание 25-19255">
+    <task id="LOCAL-00323" summary="Задание 5-9828">
       <option name="closed" value="true" />
-      <created>1739901054028</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
+      <created>1748947517046</created>
+      <option name="number" value="00323" />
+      <option name="presentableId" value="LOCAL-00323" />
       <option name="project" value="LOCAL" />
-      <updated>1739901054029</updated>
+      <updated>1748947517046</updated>
     </task>
-    <task id="LOCAL-00099" summary="задание 1-тест решу егэ">
+    <task id="LOCAL-00324" summary="Задание 5-17518">
       <option name="closed" value="true" />
-      <created>1740074489070</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
+      <created>1748947526269</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
       <option name="project" value="LOCAL" />
-      <updated>1740074489076</updated>
+      <updated>1748947526269</updated>
     </task>
-    <task id="LOCAL-00100" summary="задание 2-тест решу егэ">
+    <task id="LOCAL-00325" summary="Задание 5-17546">
       <option name="closed" value="true" />
-      <created>1740074988482</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
+      <created>1748947534727</created>
+      <option name="number" value="00325" />
+      <option name="presentableId" value="LOCAL-00325" />
       <option name="project" value="LOCAL" />
-      <updated>1740074988482</updated>
+      <updated>1748947534727</updated>
     </task>
-    <task id="LOCAL-00101" summary="задание 3-тест решу егэ">
+    <task id="LOCAL-00326" summary="Задание 5-17624">
       <option name="closed" value="true" />
-      <created>1740075344676</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
+      <created>1748947545932</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
       <option name="project" value="LOCAL" />
-      <updated>1740075344676</updated>
+      <updated>1748947545932</updated>
     </task>
-    <task id="LOCAL-00102" summary="задание 5-тест решу егэ">
+    <task id="LOCAL-00327" summary="Задание 6-9829">
       <option name="closed" value="true" />
-      <created>1740076684607</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
+      <created>1748947563261</created>
+      <option name="number" value="00327" />
+      <option name="presentableId" value="LOCAL-00327" />
       <option name="project" value="LOCAL" />
-      <updated>1740076684607</updated>
+      <updated>1748947563261</updated>
     </task>
-    <task id="LOCAL-00103" summary="задание 6-тест решу егэ">
+    <task id="LOCAL-00328" summary="Задание 6-17547">
       <option name="closed" value="true" />
-      <created>1740077234872</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
+      <created>1748947572016</created>
+      <option name="number" value="00328" />
+      <option name="presentableId" value="LOCAL-00328" />
       <option name="project" value="LOCAL" />
-      <updated>1740077234872</updated>
+      <updated>1748947572016</updated>
     </task>
-    <task id="LOCAL-00104" summary="задание 8-тест решу егэ">
+    <task id="LOCAL-00329" summary="Задание 6-17625">
       <option name="closed" value="true" />
-      <created>1740077706414</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
+      <created>1748947582406</created>
+      <option name="number" value="00329" />
+      <option name="presentableId" value="LOCAL-00329" />
       <option name="project" value="LOCAL" />
-      <updated>1740077706414</updated>
+      <updated>1748947582406</updated>
     </task>
-    <task id="LOCAL-00105" summary="задание 12-тест решу егэ">
+    <task id="LOCAL-00330" summary="Задание 9-9832">
       <option name="closed" value="true" />
-      <created>1740082766974</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
+      <created>1748951732535</created>
+      <option name="number" value="00330" />
+      <option name="presentableId" value="LOCAL-00330" />
       <option name="project" value="LOCAL" />
-      <updated>1740082766974</updated>
+      <updated>1748951732535</updated>
     </task>
-    <task id="LOCAL-00106" summary="задание 14-тест решу егэ">
+    <task id="LOCAL-00331" summary="Задание 9-9778">
       <option name="closed" value="true" />
-      <created>1740083170998</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
+      <created>1748951742835</created>
+      <option name="number" value="00331" />
+      <option name="presentableId" value="LOCAL-00331" />
       <option name="project" value="LOCAL" />
-      <updated>1740083170998</updated>
+      <updated>1748951742835</updated>
     </task>
-    <task id="LOCAL-00107" summary="задание 15-тест решу егэ">
+    <task id="LOCAL-00332" summary="Задание 9-17550">
       <option name="closed" value="true" />
-      <created>1740083490897</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
+      <created>1748951752849</created>
+      <option name="number" value="00332" />
+      <option name="presentableId" value="LOCAL-00332" />
       <option name="project" value="LOCAL" />
-      <updated>1740083490897</updated>
+      <updated>1748951752849</updated>
     </task>
-    <task id="LOCAL-00108" summary="задание 16-тест решу егэ">
+    <task id="LOCAL-00333" summary="Задание 8-17521">
       <option name="closed" value="true" />
-      <created>1740083687625</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
+      <created>1748951765556</created>
+      <option name="number" value="00333" />
+      <option name="presentableId" value="LOCAL-00333" />
       <option name="project" value="LOCAL" />
-      <updated>1740083687625</updated>
+      <updated>1748951765556</updated>
     </task>
-    <task id="LOCAL-00109" summary="задание 17-тест решу егэ">
+    <task id="LOCAL-00334" summary="Задание 8-17549">
       <option name="closed" value="true" />
-      <created>1740084592394</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
+      <created>1748951772699</created>
+      <option name="number" value="00334" />
+      <option name="presentableId" value="LOCAL-00334" />
       <option name="project" value="LOCAL" />
-      <updated>1740084592394</updated>
+      <updated>1748951772699</updated>
     </task>
-    <task id="LOCAL-00110" summary="задание 18-тест решу егэ">
+    <task id="LOCAL-00335" summary="Задание 8-17627">
       <option name="closed" value="true" />
-      <created>1740084934601</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
+      <created>1748951781231</created>
+      <option name="number" value="00335" />
+      <option name="presentableId" value="LOCAL-00335" />
       <option name="project" value="LOCAL" />
-      <updated>1740084934601</updated>
+      <updated>1748951781231</updated>
     </task>
-    <task id="LOCAL-00111" summary="задание 25-тест решу егэ">
+    <task id="LOCAL-00336" summary="Шпора к 6 заданию">
       <option name="closed" value="true" />
-      <created>1740086039088</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
+      <created>1748951795766</created>
+      <option name="number" value="00336" />
+      <option name="presentableId" value="LOCAL-00336" />
       <option name="project" value="LOCAL" />
-      <updated>1740086039088</updated>
+      <updated>1748951795766</updated>
     </task>
-    <task id="LOCAL-00112" summary="задание 9-тест решу егэ">
+    <task id="LOCAL-00337" summary="Шпора к 7 заданию">
       <option name="closed" value="true" />
-      <created>1740087844977</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
+      <created>1748951801771</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
       <option name="project" value="LOCAL" />
-      <updated>1740087844977</updated>
+      <updated>1748951801771</updated>
     </task>
-    <task id="LOCAL-00113" summary="задание 22-тест решу егэ">
+    <task id="LOCAL-00338" summary="Шпора к 8 заданию">
       <option name="closed" value="true" />
-      <created>1740091660371</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
+      <created>1748951808509</created>
+      <option name="number" value="00338" />
+      <option name="presentableId" value="LOCAL-00338" />
       <option name="project" value="LOCAL" />
-      <updated>1740091660371</updated>
+      <updated>1748951808509</updated>
     </task>
-    <task id="LOCAL-00114" summary="задания 4 7 11 19 20 тест решу егэ">
+    <task id="LOCAL-00339" summary="Шпора к 9 заданию">
       <option name="closed" value="true" />
-      <created>1740100514884</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
+      <created>1748951815464</created>
+      <option name="number" value="00339" />
+      <option name="presentableId" value="LOCAL-00339" />
       <option name="project" value="LOCAL" />
-      <updated>1740100514884</updated>
+      <updated>1748951815464</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <option name="localTasksCounter" value="340" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задание 25-4603-1" />
-    <MESSAGE value="задание 25-4603-2" />
-    <MESSAGE value="задание 25-4628" />
-    <MESSAGE value="задание 25-9754" />
-    <MESSAGE value="задание 25-9792" />
-    <MESSAGE value="задание 25-9846" />
-    <MESSAGE value="задание 25-12255" />
-    <MESSAGE value="задание 25-17880" />
-    <MESSAGE value="задание 25-19255" />
-    <MESSAGE value="задание 1-тест решу егэ" />
-    <MESSAGE value="задание 2-тест решу егэ" />
-    <MESSAGE value="задание 3-тест решу егэ" />
-    <MESSAGE value="задание 5-тест решу егэ" />
-    <MESSAGE value="задание 6-тест решу егэ" />
-    <MESSAGE value="задание 8-тест решу егэ" />
-    <MESSAGE value="задание 12-тест решу егэ" />
-    <MESSAGE value="задание 14-тест решу егэ" />
-    <MESSAGE value="задание 15-тест решу егэ" />
-    <MESSAGE value="задание 16-тест решу егэ" />
-    <MESSAGE value="задание 17-тест решу егэ" />
-    <MESSAGE value="задание 18-тест решу егэ" />
-    <MESSAGE value="задание 25-тест решу егэ" />
-    <MESSAGE value="задание 9-тест решу егэ" />
-    <MESSAGE value="задание 22-тест решу егэ" />
-    <MESSAGE value="задания 4 7 11 19 20 тест решу егэ" />
-    <option name="LAST_COMMIT_MESSAGE" value="задания 4 7 11 19 20 тест решу егэ" />
+    <MESSAGE value="Задание 1-16367" />
+    <MESSAGE value="Задание 1-17620" />
+    <MESSAGE value="Задание 2-9771" />
+    <MESSAGE value="Задание 2-12671" />
+    <MESSAGE value="Задание 2-17543" />
+    <MESSAGE value="Задание 2-17621" />
+    <MESSAGE value="Задание 5-4585" />
+    <MESSAGE value="Задание 5-9736" />
+    <MESSAGE value="Задание 5-9828" />
+    <MESSAGE value="Задание 5-17518" />
+    <MESSAGE value="Задание 5-17546" />
+    <MESSAGE value="Задание 5-17624" />
+    <MESSAGE value="Задание 6-9829" />
+    <MESSAGE value="Задание 6-17547" />
+    <MESSAGE value="Задание 6-17625" />
+    <MESSAGE value="Задание 9-9832" />
+    <MESSAGE value="Задание 9-9778" />
+    <MESSAGE value="Задание 9-17550" />
+    <MESSAGE value="Задание 8-17521" />
+    <MESSAGE value="Задание 8-17549" />
+    <MESSAGE value="Задание 8-17627" />
+    <MESSAGE value="Шпора к 6 заданию" />
+    <MESSAGE value="Шпора к 7 заданию" />
+    <MESSAGE value="Шпора к 8 заданию" />
+    <MESSAGE value="Шпора к 9 заданию" />
+    <option name="LAST_COMMIT_MESSAGE" value="Шпора к 9 заданию" />
   </component>
 </project>
